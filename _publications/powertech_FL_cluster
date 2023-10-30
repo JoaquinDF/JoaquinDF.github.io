@@ -8,7 +8,7 @@ authors: '<b>Joaquin Delgado Fernandez</b>, Sergio Potenciano Menci, Ivan Pavic'
 when: June 2023.
 date: June 2023.
 year: 2023
-venue: ' 2023 IEEE Belgrade PowerTech'
+venue: '2023 IEEE Belgrade PowerTech'
 paperurl: 'https://ieeexplore.ieee.org/document/10202782'
 citation: 'J. D. Fernandez, S. P. Menci and I. Pavic, "Towards a peer-to-peer residential short-term load forecasting with federated learning," 2023 IEEE Belgrade PowerTech, Belgrade, Serbia, 2023, pp. 1-6, doi: 10.1109/PowerTech55446.2023.10202782.'
 ---
