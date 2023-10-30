@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Myself
-In 2023 I got my Ph.D. in Computer Science from the University of Luxembourg with a thesis titled: "Breaking data silos with Federated Learning" nominated for the Best thesis award of 2023. 
+In 2023 I got my Ph.D. in Computer Science from the University of Luxembourg with a thesis titled: <a href="https://orbilu.uni.lu/handle/10993/57042"> "Breaking data silos with Federated Learning" </a>  nominated for the Best thesis award of 2023. 
 
 Since then I've had the privilege of serving as a Researcher at the Interdisciplinary Center for Security, Reliability, and Trust <a href="https://www.uni.lu/snt-en/">(SNT)</a> 
 
