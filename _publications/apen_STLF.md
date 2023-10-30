@@ -3,7 +3,7 @@ title: "Privacy-preserving federated learning for residential short-term load fo
 collection: publications
 permalink: 'https://doi.org/10.1016/j.apenergy.2022.119915'
 excerpt: ''
-aurhors: '<b>Joaquin Delgado Fernandez</b>, Sergio Potenciano Menci, Chul Min Lee, Alexander Rieger, Gilbert Fridgen'
+authors: '<b>Joaquin Delgado Fernandez</b>, Sergio Potenciano Menci, Chul Min Lee, Alexander Rieger, Gilbert Fridgen'
 date: Aug 2022
 venue: 'Applied Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0306261922011722'
